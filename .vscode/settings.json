@@ -1,0 +1,9 @@
+{
+    "python.testing.pytestArgs": [
+        "test_0624"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.pythonPath": "D:\\Python\\Python37-32\\python.exe"
+}
